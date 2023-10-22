@@ -1,20 +1,21 @@
 # Jokenpô Python 🗿📜✂️
 OBJETIVO : PEDRA, PAPEL E TESOURA
 
--> COMO
-com a biblioteca random, em choice
-if, elif e else
-logica and e or
+
+-> COMO?
+- Utilizando a biblioteca random.
+- if, elif e else.
+- logica and e or.
 
 -> variaveis:
-- opcoes =
-- jogada_do_usuario = 
-- jogada_do_computador =
+- opcoes = Uma lista que armazena as opções em string.
+- jogada_do_usuario = Armazena a entrada de dados do usuário.
+- jogada_do_computador = armazena a seleção aleatória da biblioteca random com o choice.
 
 
 -> DE EXTREMA IMPORTÂNCIA NO CODIGO
-.lower() - permite a leitura de letras maiusculas e minusculas.
-.choice() - permite a seleção aleatória.
+- .lower() - permite a leitura de letras maiusculas e minusculas.
+- .choice() - permite a seleção aleatória.
 
 
 PONTOS FORTES:

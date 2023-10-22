@@ -7,13 +7,13 @@ OBJETIVO : PEDRA, PAPEL E TESOURA
 - if, elif e else.
 - logica and e or.
 
--> variaveis:
+-> Variaveis:
 - opcoes = Uma lista que armazena as opções em string.
 - jogada_do_usuario = Armazena a entrada de dados do usuário.
 - jogada_do_computador = armazena a seleção aleatória da biblioteca random com o choice.
 
 
--> DE EXTREMA IMPORTÂNCIA NO CODIGO
+-> DE EXTREMA IMPORTÂNCIA NO CODIGO:
 - .lower() - permite a leitura de letras maiusculas e minusculas.
 - .choice() - permite a seleção aleatória.
 

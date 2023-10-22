@@ -29,7 +29,7 @@ PONTOS FORTES:
 
 
 
-2) JOKENPÔ COM IFS EM IFS
+2 ) JOKENPÔ COM IFS EM IFS
 - 28 LINHAS ( SEM AS ANOTAÇÕES )
 1 - IF armazenando ( if, elif, else).
 2 - ELIF armazenando (if, elif, else).

@@ -25,8 +25,12 @@ PONTOS FORTES:
 
 
 JOKENPÔ COM OR
-15 LINHAS DE CODIGO ( SEM AS ANOTAÇÕES )
+- 15 LINHAS ( SEM AS ANOTAÇÕES )
 
 
 
 JOKENPÔ COM IFS EM IFS
+- 28 LINHAS ( SEM AS ANOTAÇÕES )
+1 - IF armazenando ( if, elif, else).
+2 - ELIF armazenando (if, elif, else).
+3 - Else analisando uma possivel falha de digitação.

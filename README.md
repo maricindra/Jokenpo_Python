@@ -23,10 +23,11 @@ PONTOS FORTES:
 - O USUÁRIO TEM LIBERDADE PARA USAR LETRAS MAIUSCULAS OU MINUSCULAS
 - O CODIGO TESTA O CANAL COM O USUÁRIO VARIAS VEZES, POR MEIO DE PRINTS E ATE REPETIÇÕES
 
+---
 
 1 ) JOKENPÔ COM OR
 - 15 LINHAS ( SEM AS ANOTAÇÕES )
-
+Nesse metodo utiliza 3 ifs: para vitória, empate e derrota em cada if foi fundamental o uso do and e or.
 
 
 2 ) JOKENPÔ COM IFS EM IFS
@@ -34,3 +35,4 @@ PONTOS FORTES:
 1 - IF armazenando ( if, elif, else).
 2 - ELIF armazenando (if, elif, else).
 3 - Else analisando uma possivel falha de digitação.
+  Nesse metodo é essencial um if dentro de outro if, especificando cada possiblidade por meio de ifs.
